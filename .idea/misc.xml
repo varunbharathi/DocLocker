@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/drawable/bottomnav_background.xml" value="0.2456081081081081" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/drawable/bottomnav_item_selector.xml" value="0.2456081081081081" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/drawable/homestylecard.xml" value="0.2456081081081081" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/drawable/ic_twotone_email_24.xml" value="0.2456081081081081" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/drawable/inputbackground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/drawable/mainbackground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/drawable/stylecard.xml" value="0.37864583333333335" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/layout/activity_home.xml" value="0.23513513513513515" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/layout/activity_login.xml" value="0.23513513513513515" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/layout/activity_sign_up.xml" value="0.23513513513513515" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/layout/activity_splash.xml" value="0.3625" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/layout/fragment_my_documents.xml" value="0.23513513513513515" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/layout/fragment_new_document.xml" value="0.2260135135135135" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/layout/fragment_profile.xml" value="0.23513513513513515" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/menu/home_menu.xml" value="0.23513513513513515" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/mipmap-anydpi-v26/ic_doclocker_logo.xml" value="0.21875" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21875" />
+        <entry key="..\:/Android/AndroidSttudioProjects/DocLocker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

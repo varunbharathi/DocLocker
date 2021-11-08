@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793153445313",
+    "project_id": "doclocker-vk888",
+    "storage_bucket": "doclocker-vk888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793153445313:android:8657f0d21380ebc2e66340",
+        "android_client_info": {
+          "package_name": "com.gkram.doclocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793153445313-4tisoqdgsaok4qo8cndvpdqgb2hh0a2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Krx8Apbj6DLhAZNTO4b7UROPJYyF-HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793153445313-4tisoqdgsaok4qo8cndvpdqgb2hh0a2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
